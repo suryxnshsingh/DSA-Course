@@ -35,3 +35,4 @@ int binary(int arr[], int size, int key){
     cout << "The index is " << EvenIndex << endl;
     cout << "The index is " << OddIndex <<  endl;
  }
+
